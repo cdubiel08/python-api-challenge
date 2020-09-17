@@ -1,0 +1,493 @@
+city,humidity,temp,cloudiness (%),wind speed,hemisphere
+barao de melgaco,11,102.2,92,8.05,southern
+hermanus,88,51.01,2,2.82,southern
+malartic,37,48.96,20,10.29,northern
+dalhousie,79,62.11,0,5.99,northern
+bredasdorp,81,53.6,8,1.12,southern
+cidreira,77,66.54,92,5.79,southern
+sur,65,82.09,3,8.81,northern
+port elizabeth,93,53.6,0,2.24,southern
+kavaratti,81,82.22,71,19.84,northern
+ancud,73,53.01,98,3,southern
+esmeraldas,27,88.95,20,5.82,northern
+kabrai,47,90.1,41,4.41,northern
+arraial do cabo,58,83.95,0,14.99,southern
+jalu,35,87.78,0,19.26,northern
+ushuaia,59,37.4,40,26.4,southern
+sao filipe,80,81.73,63,6.26,northern
+port alfred,70,59.07,0,2.06,southern
+busselton,52,47.77,16,12.91,southern
+qaanaaq,83,20.95,10,9.46,northern
+albany,63,70.5,72,1.14,southern
+antofagasta,67,59,20,11.41,southern
+tasiilaq,65,41,5,11.41,northern
+jamestown,68,65.7,20,9.17,southern
+autun,39,78.04,0,9.17,northern
+marfino,93,55.9,75,17.9,northern
+dikson,81,46.6,88,10.67,northern
+longyearbyen,92,37.4,75,10.29,northern
+saint george,14,84.33,1,3.36,northern
+vardo,75,42.8,74,16.11,northern
+sechura,53,75.61,37,11.95,southern
+vigrestad,93,51.37,38,7.2,northern
+codrington,85,46.42,100,9.15,northern
+nevinnomyssk,2,62.01,0,13,northern
+lulea,70,44.6,88,1.12,northern
+dothan,88,77.02,90,11.41,northern
+colares,82,68.36,20,5.82,northern
+cape town,87,57.67,2,6.93,southern
+trincomalee,73,81.93,60,19.62,northern
+sengiley,71,51.8,100,8.95,northern
+maldonado,36,74.1,0,9.17,southern
+pangnirtung,60,41,90,11.41,northern
+satao,69,67.03,54,3,northern
+narsaq,52,46.4,75,2.24,northern
+jizan,66,91.4,16,6.93,northern
+torbay,68,66.04,75,31.09,northern
+pryozerne,61,71.37,2,6.4,northern
+sorland,87,48.2,75,29.97,northern
+upernavik,84,34.75,100,3.76,northern
+khotynets,87,51.39,96,14.92,northern
+ostrovnoy,83,40.86,2,3.36,northern
+srivardhan,85,80.19,100,4.56,northern
+lahij,47,91.26,29,8.28,northern
+rio grande,73,65.14,0,3.96,southern
+beloha,83,68.81,0,6.6,southern
+klaksvik,100,51.8,100,8.05,northern
+kruisfontein,81,55,0,3.2,southern
+east london,82,55.4,1,3.36,southern
+bathsheba,66,86,75,10.29,northern
+contamana,34,95.92,18,3.56,southern
+aljezur,71,68,31,1.99,northern
+albion,45,65.43,1,3.36,northern
+santa rosa,83,80.29,40,2.24,southern
+boa vista,55,89.6,40,8.05,northern
+bud,50,79.27,40,8.05,northern
+el tigre,49,90.1,40,1.86,northern
+sao joao da barra,51,82.47,0,18.34,southern
+gornopravdinsk,96,48.74,100,5.95,northern
+ribeira grande,68,71.6,20,6.93,northern
+porto novo,83,80.6,40,6.93,northern
+raudeberg,60,55,100,32.64,northern
+mahebourg,73,71.6,75,11.41,southern
+husavik,46,53.6,40,11.41,northern
+luderitz,66,60.49,0,12.39,southern
+taltal,46,65.8,21,6.51,southern
+krasnoselkup,90,46.83,62,13.04,northern
+oriximina,32,97.83,48,6.8,northern
+yar-sale,89,45.64,100,4.18,northern
+arlit,65,77.31,97,14.32,northern
+saurimo,53,73.96,79,2.71,southern
+ponta do sol,60,70.74,40,12.75,northern
+cockburn town,66,87.8,40,9.17,northern
+hamilton,36,79.57,1,11.41,northern
+road town,66,88.14,20,11.41,northern
+kashira,87,59,75,11.18,northern
+saint-philippe,64,63.57,50,4.7,southern
+souillac,73,71.6,75,11.41,southern
+ilulissat,69,37.4,75,6.93,northern
+bambous virieux,73,71.31,75,11.41,southern
+garh maharaja,27,92.73,0,7.07,northern
+namibe,79,62.8,0,8.03,southern
+eregli,28,68.05,0,4.5,northern
+chuy,58,68.13,3,7.43,southern
+la serena,76,57.2,2,14.99,southern
+turkan,64,73.4,22,13.87,northern
+wattegama,94,78.8,63,6.93,northern
+punta arenas,48,42.4,75,28.86,southern
+taoudenni,11,100.56,0,10.27,northern
+bilma,13,99.81,53,5.59,northern
+riviere-au-renard,20,62.6,20,18.34,northern
+iquique,63,62.6,12,14.99,southern
+trairi,59,83.79,0,17.13,northern
+kisangani,96,71.82,78,4.9,northern
+mapiripan,50,89.8,19,4.63,northern
+great yarmouth,80,59.05,54,8.01,northern
+ouadda,88,72.34,77,3.56,northern
+clarence town,93,61.29,90,9.17,northern
+inirida,46,94.77,31,2.04,northern
+kudahuvadhoo,76,83.23,100,10.76,northern
+kant,65,84.13,75,2.68,northern
+lagoa,67,68.22,9,12.55,northern
+kilindoni,80,76.78,0,12.41,southern
+caravelas,51,79.83,5,9.57,southern
+jacobina,26,85.86,61,8.05,southern
+rennes,47,78.42,0,12.75,northern
+nanortalik,67,41.77,82,9.28,northern
+amod,83,82.04,100,7.05,northern
+jiblah,76,67.5,71,2.13,northern
+barga,56,74.52,13,4.88,northern
+vila velha,58,81.32,0,18.34,southern
+inta,83,42.93,100,14.61,northern
+kimparana,79,79.5,86,7.94,northern
+shakawe,21,79.52,54,7.18,southern
+sovetskiy,73,48.61,100,10.2,northern
+mar del plata,27,70.23,35,19.46,southern
+clyde river,60,41,75,9.17,northern
+hvide sande,71,50,9,7.78,northern
+bakel,37,96.84,87,7.16,northern
+mandera,35,87.69,0,14.23,northern
+piskivka,66,56.37,84,13.42,northern
+hithadhoo,78,82.67,73,11.18,southern
+iqaluit,65,41,75,4.7,northern
+kukmor,85,43.56,61,5.97,northern
+castro,57,71.91,82,9.84,southern
+port shepstone,71,64.56,11,8.43,southern
+general roca,15,75.2,100,25.28,southern
+asaba,89,76.78,28,5.1,northern
+salvador,69,83.52,20,4.7,southern
+rypefjord,70,46.4,75,14.99,northern
+inegol,69,73.4,0,1.12,northern
+saint-augustin,44,62.65,62,25.01,northern
+imbituba,94,68,40,6.93,southern
+rusape,43,69.01,0,12.57,southern
+benicarlo,83,71.96,92,1.99,northern
+saldanha,72,59,0,8.05,southern
+san francisco,88,65.35,90,3.36,southern
+victoria,89,80.58,83,1.01,southern
+georgetown,100,78.06,20,1.5,southern
+laguna,53,75.45,5,5.82,southern
+umba,73,42.8,8,7.29,northern
+paamiut,70,40.91,100,15.35,northern
+belmonte,61,78.8,20,11.41,southern
+waddan,23,81.79,0,7.07,northern
+senneterre,37,50,20,10.29,northern
+gobabis,20,67.78,0,8.37,southern
+hargeysa,46,78.37,85,11.27,northern
+sao jose da coroa grande,63,78.75,14,10.47,southern
+fonte boa,42,96.04,100,1.25,southern
+kristiinankaupunki,75,48.61,90,15.21,northern
+aripuana,21,99.79,42,3.13,southern
+mangan,59,76.55,100,0.58,northern
+pauini,31,96.26,92,1.92,southern
+gurkovo,47,70.32,20,11.41,northern
+sharjah,70,89.87,0,4.7,northern
+bethanien,23,64.09,0,4.34,southern
+richards bay,69,67.37,41,5.5,southern
+kolvereid,76,49.14,75,26.4,northern
+killybegs,82,62.92,20,3.36,northern
+mushie,75,79.43,92,4.27,southern
+nioro,80,82.98,61,11.36,northern
+urengoy,78,47.26,18,13.67,northern
+gogrial,71,78.42,16,1.45,northern
+hasanabad,40,69.8,0,4.7,northern
+carnarvon,62,57.2,0,8.05,southern
+muisne,70,84.2,75,6.93,northern
+makueni,60,69.98,0,10.2,southern
+general pico,17,85.42,52,11.7,southern
+kumluca,50,85.87,1,5.61,northern
+walvis bay,76,56.19,0,3.36,southern
+madhupur,84,80.35,100,3.71,northern
+saint-georges,66,89.6,20,9.17,northern
+talnakh,71,51.8,98,8.95,northern
+bestobe,72,50.86,93,14.36,northern
+altayskoye,84,54.73,100,4.81,northern
+shelbyville,61,82.13,20,14.99,northern
+ploemeur,57,76.96,5,16.11,northern
+saint-pierre,64,64.4,23,4.7,northern
+vestmannaeyjar,81,50,75,16.11,northern
+oranjemund,74,59.02,6,8.86,southern
+mecca,37,88.52,22,1.21,northern
+moyale,43,76.3,2,10.29,northern
+havoysund,75,46.4,20,11.41,northern
+lakeside,78,81.82,75,14.99,northern
+abu samrah,40,76.62,0,9.04,northern
+atar,9,107.19,0,15.66,northern
+kontagora,81,76.75,36,0.89,northern
+grindavik,93,48.2,75,19.46,northern
+mananjary,87,68.36,0,8.23,southern
+axim,84,76.17,27,9.73,southern
+oktyabrskiy,87,42.67,41,3.65,northern
+anloga,83,78.8,20,10.29,northern
+balkhash,40,58.1,49,21.83,northern
+sabzevar,40,63.99,0,7.2,northern
+dingle,92,74.88,100,1.66,northern
+rodrigues alves,52,93.2,40,2.24,southern
+mindelo,66,87.8,20,11.41,northern
+baoro,93,69.15,57,1.43,northern
+port-cartier,34,50,20,17.22,northern
+manakara,87,68.5,0,10.4,southern
+tripoli,61,79.57,0,9.13,northern
+methoni,88,73.36,75,12.75,northern
+luangwa,25,82.76,2,3.27,southern
+uren,77,52.48,100,12.84,northern
+rocha,50,69.8,0,8.93,southern
+lamas,83,80.6,75,12.75,southern
+lebu,76,54.05,95,9.55,southern
+cayenne,66,87.8,34,12.75,northern
+centralia,88,65.23,75,4.5,northern
+mopipi,26,80.38,71,9.84,southern
+sao felix do xingu,23,99.46,40,5.53,southern
+puerto leguizamo,44,92.88,22,2.59,southern
+thyboron,85,49.68,12,9.13,northern
+nassau,64,74.32,90,9.17,northern
+siguiri,87,78.03,97,2.71,northern
+kashary,33,59.99,0,9.89,northern
+vyartsilya,87,45.3,100,16.96,northern
+kibre mengist,84,61.66,39,0.81,northern
+constantine,41,77,2,4.7,northern
+ovalle,17,87.71,0,6.11,southern
+praia,76,82.62,49,7.65,northern
+coquimbo,76,57.2,1,14.99,southern
+aquiraz,62,84.2,1,14.99,northern
+conakry,85,80.71,64,12.55,northern
+concordia,47,75.09,0,9.17,southern
+pindushi,89,43.14,100,17.11,northern
+safaga,62,87.8,0,6.93,northern
+maralal,46,67.96,93,13.76,northern
+callaway,78,79.83,75,20.8,northern
+pangody,89,45.91,54,9.15,northern
+punta alta,26,69.93,73,24.47,southern
+upata,54,91.99,87,1.99,northern
+chardara,44,59.68,0,5.97,northern
+harper,87,75.15,100,11.74,southern
+awbari,29,84,0,7.7,northern
+miajadas,57,75.99,100,18.01,northern
+panormos,82,75.69,0,1.92,northern
+paratebueno,52,89.6,20,4.7,northern
+sao miguel do araguaia,14,101.41,17,4.32,southern
+puerto colombia,66,89.6,40,5.82,northern
+kruisfontein,76,54,0,1.01,southern
+dalmatovo,88,48.99,100,12.15,northern
+dikson,81,46.47,100,11.23,northern
+qaanaaq,84,21.18,52,9.28,northern
+sinnamary,72,84.52,14,13.27,northern
+tiznit,53,75.47,100,8.21,northern
+vila franca do campo,64,69.8,20,11.41,northern
+san andres,74,87.8,40,8.05,northern
+bredasdorp,81,53.6,32,1.12,southern
+hermanus,90,50,7,2.24,southern
+mehamn,87,42.8,100,8.05,northern
+jamestown,68,65.71,20,9.17,southern
+oxapampa,66,69.66,81,3.71,southern
+sisimiut,71,39.22,52,4.59,northern
+indore,88,77,75,3.36,northern
+hamilton,36,79.79,1,11.41,northern
+upernavik,84,34.84,100,4.63,northern
+busselton,51,47.52,0,13.11,southern
+cidreira,77,66.29,27,7,southern
+ihosy,68,64.31,0,5.48,southern
+vardo,75,42.8,100,16.11,northern
+mar del plata,27,70.21,0,19.46,southern
+svetlyy,66,55.71,75,17.9,northern
+podyuga,95,46.17,100,15.21,northern
+brus laguna,45,95.76,0,4.05,northern
+grindavik,81,50,75,20.8,northern
+georgetown,100,78.49,20,0.43,southern
+deogarh,87,79.59,100,3.04,northern
+tramandai,78,67.08,30,7.18,southern
+albany,64,69.96,100,3.62,southern
+ambilobe,72,71.6,27,5.19,southern
+lasa,67,62.82,40,3.36,northern
+mao,73,77,77,3.22,northern
+gemena,97,72.5,94,3.2,northern
+kavaratti,81,81.88,92,20.47,northern
+new amsterdam,63,86.5,99,3.38,northern
+necochea,34,71.01,47,10,southern
+viedma,16,71.01,72,10,southern
+rawson,32,59.68,59,42.19,southern
+oranjemund,78,58.32,0,8.72,southern
+beaufort,94,78.4,20,3.58,northern
+caravelas,57,78.19,0,8.81,southern
+gerash,17,82.4,0,7.09,northern
+nova granada,14,95,40,5.82,southern
+barkot,76,65.88,0,2.71,northern
+roanoke rapids,100,68.99,40,3.36,northern
+jalu,47,83.23,0,20.45,northern
+arlit,57,80.31,100,21.74,northern
+urdoma,96,38.05,100,8.79,northern
+saint-joseph,64,63.66,28,5.82,southern
+visnes,81,51.64,20,5.82,northern
+talnakh,71,51.8,100,8.95,northern
+lagunas,43,94.01,24,2.42,southern
+chuy,58,67.73,0,7.45,southern
+vila velha,58,81.34,0,18.34,southern
+hambantota,94,78.8,82,6.93,northern
+saint-augustin,39,60.98,100,27.38,northern
+saint-philippe,64,63.59,55,5.82,southern
+buraydah,16,93.2,0,4.7,northern
+port alfred,70,59.4,11,4.56,southern
+plettenberg bay,73,55.67,0,4.99,southern
+halifax,64,71.47,100,20,northern
+kibre mengist,84,61.77,82,1.1,northern
+tamasane,73,71.6,75,11.41,southern
+chaman,26,61.68,0,1.32,northern
+east london,82,55.4,3,3.36,southern
+ribeira grande,73,71.6,20,6.93,northern
+okakarara,24,65.05,0,2.01,southern
+yeovil,67,61.3,0,8.05,northern
+indiaroba,62,77.97,49,6.6,southern
+nanortalik,72,41.11,100,12.55,northern
+masvingo,40,74.17,0,12.71,southern
+ostersund,81,44.6,100,5.82,northern
+castro,55,72,100,8.84,southern
+dagana,56,93.2,0,6.93,northern
+tabou,88,74.95,98,11.54,southern
+abeche,41,87.48,0,3.02,northern
+mantua,72,74.91,98,4.79,northern
+ancud,67,54,100,4,southern
+santa lucia,65,79.21,100,21.92,northern
+keti bandar,83,84.4,73,14.38,northern
+bilma,14,98.85,1,6.98,northern
+ponta do sol,60,70.41,40,4.7,northern
+puerto del rosario,69,78.8,20,11.41,northern
+klaksvik,100,51.8,100,5.82,northern
+punta arenas,48,42.39,75,28.86,southern
+riyadh,12,93.2,0,6.93,northern
+kalmunai,69,81.77,100,7.49,northern
+saint george,14,85.55,1,3.36,northern
+mali,70,87.8,75,4.7,northern
+aripuana,22,99.19,85,2.21,southern
+muskegon,37,66.27,40,9.17,northern
+kalundborg,76,50.36,0,9.42,northern
+port blair,89,79,100,20.04,northern
+sambava,84,71.31,67,10.45,southern
+marawi,94,75,56,4,northern
+victoria,89,80.89,100,22.17,northern
+mahibadhoo,76,82.8,96,9.51,northern
+touros,54,82.4,40,14.99,northern
+maragogi,68,77.14,1,9.33,southern
+boa vista,55,89.6,75,4.7,northern
+codrington,88,46.44,100,8.93,northern
+hithadhoo,78,82.62,71,11.18,southern
+porto uniao,89,65.7,100,4.81,southern
+recke,62,54.14,0,3.36,northern
+olinda,61,82.4,40,14.99,southern
+itupiranga,35,98.6,40,5.82,southern
+mbala,32,70.03,23,6.22,southern
+santa flavia,81,77.76,0,7.27,northern
+tupelo,58,85.15,20,17.22,northern
+san carlos,62,88.2,9,2.59,southern
+abingdon,48,62.74,4,9.17,northern
+cape town,87,56.53,28,6.93,southern
+pauri,95,65.3,65,2.26,northern
+alpena,47,57.25,40,9.17,northern
+am timan,86,77.43,100,3.44,northern
+korla,56,70,0,3,northern
+fredericton,63,65.23,90,6.93,northern
+havoysund,75,46.4,20,10.29,northern
+kayerkan,71,51.8,100,8.95,northern
+sokoto,70,80.62,32,5.82,northern
+hualmay,64,67.03,6,8.23,southern
+salalah,88,80.6,75,6.93,northern
+mitu,48,91.13,86,1.81,northern
+veraval,81,81.39,100,9.06,northern
+luderitz,68,59.76,0,12.62,southern
+namibe,79,62.13,0,6.22,southern
+marienburg,100,46.45,99,7.2,northern
+geilo,70,44.01,100,7.4,northern
+nara,60,81.34,100,1.01,northern
+ikalamavony,69,62.6,0,5.21,southern
+aksu,26,67.66,0,1.21,northern
+anina,56,73.4,98,5.82,northern
+muravlenko,92,47.88,100,18.03,northern
+ortigueira,53,74.68,97,7.31,southern
+kibala,94,71.6,75,2.24,southern
+eyrarbakki,81,48.4,75,18.34,northern
+laurinburg,94,73.58,90,9.17,northern
+akureyri,46,53.6,40,11.41,northern
+inhambane,94,73.2,20,2.24,southern
+mabaruma,63,87.37,9,6.64,northern
+abu kamal,19,86.18,0,3.49,northern
+petawawa,40,55.02,1,4.7,northern
+pervomayskoye,70,63.07,0,14.97,northern
+araouane,25,97.9,48,22.75,northern
+ghanzi,23,68.43,91,3.78,southern
+hambantota,94,78.8,82,6.93,southern
+shenkursk,94,40.86,100,15.01,northern
+schwandorf,59,61.2,1,3.36,northern
+lerwick,100,53.6,75,11.41,northern
+porto santo,64,73.4,40,23.04,northern
+kamenka,38,60.01,6,15.21,northern
+boende,86,75.4,100,3.06,southern
+sao filipe,81,81.27,59,6.06,northern
+rjukan,80,39.99,87,8.01,northern
+constitucion,65,62.19,0,17.4,southern
+saint-francois,44,77.52,0,6.93,northern
+kaduqli,75,76.89,15,1.19,northern
+catumbela,84,70.45,100,4.81,southern
+issia,93,73.36,91,4.29,northern
+volokolamsk,90,46.2,100,11.54,northern
+syracuse,45,78.57,20,12.75,northern
+mbini,83,80.6,40,6.93,northern
+piura,37,86.36,0,13.96,southern
+ciudad bolivar,48,91.94,30,0.92,northern
+edd,71,89.62,100,5.99,northern
+venta,66,51.8,75,21.92,northern
+axim,86,75.6,41,8.21,northern
+lebu,77,53.89,100,11.79,southern
+bengkulu,90,74.44,85,4.9,southern
+cayenne,62,89.6,0,13.87,northern
+kedrovyy,93,48.2,100,2.24,northern
+freiburg,60,68.45,0,4.7,northern
+umm lajj,50,88.84,0,6.04,northern
+stromness,93,55.4,44,2.24,northern
+glace bay,64,71.06,75,26.4,northern
+zaysan,50,58.89,100,7.25,northern
+dakar,74,86,75,13.87,northern
+dubai,75,89.47,0,5.82,northern
+kapoeta,39,83.26,68,3.51,northern
+cordoba,13,86.49,0,9.17,southern
+rio esteban,74,87.8,20,5.82,northern
+presidencia roque saenz pena,23,84.29,0,6.02,southern
+juba,70,76.44,34,1.74,northern
+chapais,42,46.4,75,17.22,northern
+ambanja,81,73.15,64,0.47,southern
+yar-sale,92,44.22,94,3.94,northern
+dingle,92,75,100,2.73,northern
+petropavl,94,44.87,58,9.26,northern
+blagoveshchenka,40,55.54,100,8.32,northern
+berasia,88,80.6,75,4.7,northern
+westport,56,73.74,90,8.05,northern
+placido de castro,22,99.86,98,2.62,southern
+chicama,54,72.36,8,11.1,southern
+mount pleasant,89,84.04,75,17.22,northern
+vasterhaninge,39,51.75,89,8.39,northern
+abnub,31,89.47,0,10.18,northern
+manglisi,68,68,90,4.7,northern
+antalaha,87,69.78,67,7.07,southern
+talara,75,67.05,6,17.16,southern
+ostrovnoy,86,40.95,0,4.52,northern
+ugoofaaru,77,82.62,86,11.36,northern
+catamarca,15,91.99,0,3,southern
+beloha,87,67.77,0,5.61,southern
+moundsville,68,73.47,40,4.7,northern
+elat,39,98.6,0,11.41,northern
+kholmogory,75,42.8,40,11.18,northern
+wagar,27,95.23,0,5.46,northern
+villiers,25,63.01,68,4.72,southern
+salekhard,76,47.34,100,13.94,northern
+berlevag,70,44.6,100,10.29,northern
+villa carlos paz,13,86.31,0,9.17,southern
+bandar-e lengeh,55,87.8,0,4.7,northern
+puri,89,84.2,40,4.7,northern
+bertoua,94,69.75,100,1.41,northern
+olafsvik,82,48.6,27,23.09,northern
+visakhapatnam,94,82.4,40,2.24,northern
+virginia beach,86,71.08,100,12.95,northern
+lesogorsk,85,47.41,73,5.1,northern
+paita,67,69.12,4,17.25,southern
+gadwal,86,77.27,0,11.12,northern
+calahorra,42,80.6,74,17.22,northern
+pitimbu,58,82.4,20,16.11,southern
+saldanha,76,57.2,0,8.05,southern
+lagoa,71,68.49,93,12.95,northern
+pasan,83,78.24,100,2.04,northern
+jemnice,88,52,0,7.87,northern
+brae,100,53.6,75,11.41,northern
+grand gaube,70,71.01,0,4,southern
+lugovskoy,87,50,90,13.42,northern
+nantucket,78,70.38,75,9.17,northern
+takoradi,87,75.33,2,9.31,southern
+matagami,45,48.2,1,14.99,northern
+cambridge,52,66.6,40,9.17,northern
+tutoia,72,81.95,1,16.78,northern
+adrar,10,100.27,0,12.91,northern
+eyl,83,77.27,10,19.35,northern
+glossa,88,76.14,20,6.38,northern
+concepcion,82,59,40,10.29,southern
+kolda,74,87.8,75,6.93,northern
+derzhavinsk,83,51.01,6,12.08,northern
+millinocket,63,60.89,90,3.36,northern
+sakakah,9,95,20,8.05,northern
+verkhnyaya inta,85,42.57,100,13.78,northern
